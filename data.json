@@ -1,0 +1,26 @@
+{
+  "live_events": [
+    {
+      "id": "1",
+      "team_1_name": "ليستر سيتي",
+      "team_1_logo": "https://i.imgur.com/Leicester.png",
+      "team_2_name": "بلاكبيرن روفرز",
+      "team_2_logo": "https://i.imgur.com/Blackburn.png",
+      "match_time": "05:30 PM",
+      "championship": "تشامبيونشيب البطولة الإنجليزية",
+      "commentator": "محمد السعدي",
+      "channel_name": "beIN SPORTS 2",
+      "m3u8_url": "https://stream.example.com/live1.m3u8"
+    }
+  ],
+  "categories": [
+    {
+      "name": "beIN SPORTS (1080P)",
+      "m3u8_url": "https://stream.example.com/bein1080.m3u8"
+    },
+    {
+      "name": "beIN SPORTS (720P)",
+      "m3u8_url": "https://stream.example.com/bein720.m3u8"
+    }
+  ]
+}
